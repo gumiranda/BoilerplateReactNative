@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.14.0",
     "date-fns-tz": "^1.0.10",
     "formik": "^2.1.4",
