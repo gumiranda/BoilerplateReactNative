@@ -17,7 +17,7 @@
     "date-fns": "^2.14.0",
     "date-fns-tz": "^1.0.10",
     "formik": "^2.1.4",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "polished": "^3.6.4",
     "prop-types": "^15.7.2",
     "react": "16.11.0",
